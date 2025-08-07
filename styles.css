@@ -8,4 +8,6 @@ h2,
 h3,
 h4 {
   color: red;
+  background-color: blue;
+  padding-bottom: 6px;
 }
